@@ -26,26 +26,29 @@ The MOS test was sent out to language technology practitioners and staff members
 We calculate the aggregate mean scores over the models, seen and unseen, and ground truths. The model results can be seen in the table below.
 
 <img src="img/table-voices.png"
-     alt="Markdown Monster icon"
+     alt="Table for voices"
      style="float: left; margin-right: 10px;" />
 
 Plotting these results in a bar chart yields the following chart, with the error bars plotted as the standard deviation. We can see that the ground truth is rated very high, as it should be. The copy synthesis models are scoring similarly, around 3.5 mean rating. Interestingly, the seen full synthesis model is scoring lower than the unseen full synthesis model.
 
-
-<img src="img/table-models.png"
-     alt="Markdown Monster icon"
+<img src="img/voices.png"
+     alt="Barchart for voices"
      style="float: left; margin-right: 10px;" />
+
+
 
 If we aggregate over the seen and unseen variables, we get the results presented in the table below.
 
-<img src="img/voices.png"
-     alt="Markdown Monster icon"
+<img src="img/table-models.png"
+     alt="Table for models"
      style="float: left; margin-right: 10px;" />
+
+
 
 Plotting these results in a bar chart yields the following chart with the error bars plotted as the standard deviation. We can see that the ground truth is again rated high, as is expected. The copy synthesis is scoring around 3.5 mean rating and the full synthesis is scoring around 2.9.
 
 <img src="img/models.png"
-     alt="Markdown Monster icon"
+     alt="Barchart for models"
      style="float: left; margin-right: 10px;" />
 
 ### Summary and conclusions
