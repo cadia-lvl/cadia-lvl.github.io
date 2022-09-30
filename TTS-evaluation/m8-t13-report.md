@@ -1,8 +1,8 @@
-# Subjective evaluation of T13. M9
+# Subjective evaluation of T13
 
 ## Experiment 
 ### Introduction
-The quality of the voices generated in T13 (for Milestones 8 and 9) is evaluated using mean opinion score (MOS) from listening tests. The setup of the speech synthesizer is described in the T13 section. Here, we describe the evaluation methodology and the results obtained. We also summarize the results and draw the main conclusions.
+The quality of the voices generated in T13 is evaluated using mean opinion score (MOS) from listening tests. The setup of the speech synthesizer is described in the T13 section. Here, we describe the evaluation methodology and the results obtained. We also summarize the results and draw the main conclusions.
 
 
 ### Evaluation Methodology
